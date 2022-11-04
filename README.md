@@ -1,5 +1,5 @@
 # Getting and Cleaning Data Project
-Author: Dhruv Singla <br />
+Author: Rishi Malik <br />
 Blog Post: [Getting and Cleaning Data Review](https://medium.com/@GalarnykMichael/review-course-1-the-data-scientists-toolbox-jhu-coursera-4d7459458821#.5jpg133ln "Click to go to Repo") <br />
 Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Clicking will download the data")
 
@@ -23,5 +23,5 @@ README | ReadingItNow |  [Repo Link](https://github.com/arshjeet1104/getting.and
 
 FirstName | LastName | Email
 --- | --- | ---
-Dhruv |  Singla |  <dhruvsingla2002@gmail.com>
+Rishi |  Malik |  <rishi39malik@gmail.com>
 Submit |  Pull Request | <youremailhere@gmail.com>
